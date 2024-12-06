@@ -16,7 +16,7 @@ int main(){
     	printf("5. Them mot phan tu vao vi tri ngau nhien trong mang\n");
     	printf("6. Xoa phan tu tai mot vi tri cu the\n");
     	printf("7. Sap xep mang theo thu tu tang dan\n");
-    	printf("8. Nhap v‡o mot phan tu xem phan tu do co ton tai trong mang hay khong\n");
+    	printf("8. Nhap v√†o mot phan tu xem phan tu do co ton tai trong mang hay khong\n");
     	printf("9. Sap xep lai mang va hien thi ra toan bo phan tu co trong mang sao cho toan bo so chan dung truoc, so le dung sau\n");
     	printf("10.Dao nguoc thu tu cua cac phan tu co trong mang\n");
     	printf("11. Thoat\n");
